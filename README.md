@@ -64,3 +64,7 @@ View the logs:
 View the Metrics:
 
 ![image](https://user-images.githubusercontent.com/50801771/63646579-6983d980-c715-11e9-8467-3f5d763d0fc7.png)
+
+## Other Outputs
+
+- [Elasticsearch](https://github.com/kzk/docker-compose-efk)
