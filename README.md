@@ -1,6 +1,10 @@
 # logging-tigf
 Monitoring &amp; Logging with Telegraf, InfluxDB, Grafana and FluentD
 
+## Pre-Requirements
+
+- [Traefik](https://github.com/bekkerstacks/traefik)
+
 ## Usage:
 
 Set your domain and deploy the stack:
