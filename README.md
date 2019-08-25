@@ -32,7 +32,7 @@ To push your logs to influxdb, set this configuration to your compose:
 ## Documentation:
 
 - [Wiki: Configure Custom Exporters](https://github.com/bekkerstacks/logging-tigf/wiki/Custom-Script-for-Telegraf-Input-Exec)
-
+- [Docker/Fluentd](https://docs.docker.com/config/containers/logging/fluentd/)
 ## Endpoints:
 
 - https://grafana.${DOMAIN}
