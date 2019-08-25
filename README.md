@@ -29,6 +29,14 @@ To push your logs to influxdb, set this configuration to your compose:
         fluentd-async-connect: "true"
 ```
 
+## Documentation:
+
+- [Wiki: Configure Custom Exporters](wiki/Custom-Script-for-Telegraf-Input-Exec)
+
+## Endpoints:
+
+- https://grafana.${DOMAIN}
+
 ## Screenshots
 
 Add the InfluxDB Logs Datasource:
