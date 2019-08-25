@@ -31,7 +31,7 @@ To push your logs to influxdb, set this configuration to your compose:
 
 ## Documentation:
 
-- [Wiki: Configure Custom Exporters](wiki/Custom-Script-for-Telegraf-Input-Exec)
+- [Wiki: Configure Custom Exporters](https://github.com/bekkerstacks/logging-tigf/wiki/Custom-Script-for-Telegraf-Input-Exec)
 
 ## Endpoints:
 
