@@ -37,6 +37,10 @@ To push your logs to influxdb, set this configuration to your compose:
 
 - https://grafana.${DOMAIN}
 
+## Example Dashboards:
+
+- [Dashboard #1](https://raw.githubusercontent.com/ruanbekker/swarm-tig/master/dashboard.json)
+
 ## Screenshots
 
 Add the InfluxDB Logs Datasource:
