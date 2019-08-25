@@ -36,7 +36,7 @@ To push your logs to influxdb, set this configuration to your compose:
 ## Documentation:
 
 - [Wiki: Configure Custom Exporters](https://github.com/bekkerstacks/logging-tigf/wiki/Custom-Script-for-Telegraf-Input-Exec)
-- [Docker: Fluentd](https://docs.docker.com/config/containers/logging/fluentd/)
+- [Docker: Fluentd Logging](https://docs.docker.com/config/containers/logging/fluentd/) | [Docker: Fluentd Log Tags](https://docs.docker.com/config/containers/logging/log_tags/)
 - [Fluentd: EFK](https://docs.fluentd.org/v/0.12/articles/docker-logging-efk-compose)
 
 ## Endpoints:
